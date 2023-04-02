@@ -27,5 +27,5 @@ I am not much of an open-source developer, but I try to be one whenever I am abl
 
 
 #### 🔗 Where to find me 
-[![website](https://img.shields.io/badge/My_Website-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https:/darrylssy.com/)
+[![website](https://img.shields.io/badge/My_Website-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://darrylssy.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/DarrylSSY)
