@@ -37,6 +37,15 @@ I am Darryl Soh Soon Yong, a **Full-Stack Software Engineer** from Singapore wit
 ## 📈 GitHub Stats
 
  <!--START_SECTION:waka-->
+
+```txt
+C#             2 hrs 22 mins   ████████████▓░░░░░░░░░░░░   50.21 %
+Python         32 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
+Java           30 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.55 %
+SQL            21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
+JSON           10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+```
+
 <!--END_SECTION:waka-->
 
 ![Darryl's GitHub stats](https://github-readme-stats.vercel.app/api?username=darrylssy&show_icons=true&theme=radical)
