@@ -39,11 +39,11 @@ I am Darryl Soh Soon Yong, a **Full-Stack Software Engineer** from Singapore wit
  <!--START_SECTION:waka-->
 
 ```txt
-Java              6 hrs 14 mins   ████████████████████▒░░░░   81.72 %
-C#                21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
-Markdown          19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
-SQL               12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
-GitIgnore file    10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+Java              6 hrs 52 mins   █████████████████████▓░░░   86.93 %
+Markdown          19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+SQL               12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+GitIgnore file    10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+Bash              8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
 ```
 
 <!--END_SECTION:waka-->
