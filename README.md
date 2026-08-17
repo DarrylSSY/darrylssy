@@ -42,7 +42,7 @@ I am Darryl Soh Soon Yong, a **Full-Stack Software Engineer** from Singapore wit
 C#               4 hrs 19 mins         █████████████▒░░░░░░░░░░░   53.71 %
 TypeScript       1 hr 19 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.42 %
 CSS              59 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.21 %
-Markdown         29 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
+Markdown         29 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
 YAML             25 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
 ```
 
